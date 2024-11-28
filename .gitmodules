@@ -1,0 +1,3 @@
+[submodule "project/terraform-project"]
+	path = project/terraform-project
+	url = https://gitlab.imt-atlantique.fr/login-nuage/terraform-project.git
